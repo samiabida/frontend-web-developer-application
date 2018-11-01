@@ -2,7 +2,7 @@
 
 We're happy you're interested in applying for the position of `Frontend Web developer` at **SportCompass**.
 
-We'd like you to create a simple application to showcase some of your abilities. You can make this as simple or as complex as you'd like. You can use the folder structure in this repository as a way of organizing your project if you want but it's not required.
+We'd like you to create an application to showcase some of your abilities. You can make this as simple or as complex as you'd like. You can use the folder structure in this repository as a way of organizing your project if you want but it's not required.
 
 Here's what you need to do;
 
