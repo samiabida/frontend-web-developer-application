@@ -15,7 +15,7 @@ Here's what you need to do;
 
 Bonus points; (in case you want to have more fun)
 
-1. Swap broken images on error with a defualt one.
+1. Swap broken images on error with a default one.
 2. Persist the data.
 3. Add some testing.
 
